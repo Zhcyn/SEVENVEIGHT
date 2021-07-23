@@ -1,0 +1,2 @@
+# SEVENVEIGHT
+The app is very similar to a typical notes application. You have your overview screen with all your Top Five lists, and the detail screen has a prest list of 1. - 5. ready to fill out. The current project is still under development, and the current stage is mainly for testing the logic process and testing the integrity of the interface. If you encounter problems during the test, please contact us
